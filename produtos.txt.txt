@@ -5,3 +5,4 @@
 -descrição breve 
 -preço de custo
 -preço de venda
+-**Quantidade em Estoque**
